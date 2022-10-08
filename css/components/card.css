@@ -1,0 +1,16 @@
+.card-team {
+    max-width: 400px;
+    border: 1px solid lightgrey;
+    padding: 24px;
+    border-radius: 4px;
+}
+
+.card-team h4 {
+    font-size: 18px;
+    margin-top: 8px;
+}
+
+.card-team p {
+    font-size: 14px;
+    margin-top: 8px;
+}

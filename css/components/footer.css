@@ -1,0 +1,27 @@
+footer {
+    height: 150px;
+    border-top: 1px solid lightgrey;
+    background-color: lightskyblue;
+    display: grid;
+    place-items: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+footer ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style-type: none;
+    
+}
+
+footer ul li {
+    margin-right: 24px;
+    font-size: 12px;
+}
+
+footer ul li:hover {
+    cursor: pointer;
+}

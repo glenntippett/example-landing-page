@@ -1,0 +1,25 @@
+body {
+    min-height: 100vh;
+    position: relative;
+}
+
+main {
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 24px;
+}
+
+header h1 {
+    margin-bottom: 24px;
+}
+
+article {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+section {
+    margin-top: 24px;
+    margin-bottom: 24px;
+    max-width: 75%;
+}
